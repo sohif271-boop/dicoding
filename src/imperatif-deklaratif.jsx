@@ -38,3 +38,5 @@ function Daftarmahasiswa(){
         </div>
     );
 }
+
+export default Daftarmahasiswa;
